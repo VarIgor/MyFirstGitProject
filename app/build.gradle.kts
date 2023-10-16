@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "edu.example.myfirstgitproject"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "edu.example.myfirstgitproject"
